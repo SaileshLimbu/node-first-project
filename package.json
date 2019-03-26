@@ -1,0 +1,16 @@
+{
+  "name": "node-softwarica-first-project",
+  "version": "1.0.0",
+  "description": "This is my first project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sailesh Limbu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "fetch": "^1.1.0",
+    "jquery": "^3.3.1"
+  }
+}
